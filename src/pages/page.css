@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main__home__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+     
+
+}
+.main__profile__image{
+    margin-left: 70px;
+    /* padding-left: 10px; */
+    width: 100%;
+    height: auto;
+}
+
+.profile__image{
+    width: 200px;
+    margin-left: 60px;
+    padding-left: 100px;
+    border-radius:100%
+
+    
+}
+.main__profile__header{
+  /* font-size: 30px; */
+   padding-left: 15%;
+   padding-top: 30px;
+   color: rgb(71, 65, 31);
+ 
+
+}
+.main__content{
+    padding-left: 15%;
+    padding-top: 20px;
+    padding-right: 30%;
+    /* margin-right: 40px; */
+
+}
+.job{
+    padding-left: 15%;
+    padding-top: 60px;
+}
+.copyright {
+    padding-top: 50px;
+}
+
+
+.main__fontIcon{
+     padding-top: 10px;
+     padding-left: 15%; 
+     color: #f4ecec; 
+     
+     
+}
+.about__container{
+    display: flex;
+    padding-top: 40px;
+
+}
+
+.sceenary{
+     width: 100%;
+     height: 100%;
+     border: '2px solid '
+}
+
+.desc__about{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #f4ecec ;
+}
+.locate__me{
+    padding-top: 15px;
+    color: #8d8888 ;
+}
+.main__header{
+    color: #f4ecec ;
+    font-size: 30px;
+}
+.click__me{
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.screen{
+    height: 100%;
+    margin-left: 30px;
+}
+.list__items {
+    list-style-type: none;
+}
+.desc__header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #f4ecec ;
+    font-size: 25px;
+}
+/* .main__modal__container{
+    background-color: ;
+} */
+.modal___title{
+   color: #f4ecec ;
+}
+.model__headings{
+    color: #f4ecec ;
+}
+.copyright__main{
+ padding-top: 50px;
+ margin-left: 50px;
+}
+.top__header__service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.main__service__intro{
+    color: rgb(71, 65, 31);
+}
+.service__title{
+    color: rgb(71, 65, 31);
+    font-size: 20px;
+    padding-top: 15px;
+}
+.modal___title{
+    color: rgb(71, 65, 31);
+}
+.para__content{
+    color: #f4ecec ;
+}

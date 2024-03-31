@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(8, 8, 45);
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: Arial, sans-serif;
+    }
+    
+    @media (min-width: 1024px) {
+        /* Desktop styles */
+      }
+      
+      @media (max-width: 1023px) and (min-width: 768px) {
+        /* Tablet styles */
+      }
+      
+      @media (max-width: 767px) {
+        /* Mobile styles */
+      }
